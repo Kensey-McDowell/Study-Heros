@@ -1,0 +1,53 @@
+{
+  "name": "World Capitals",
+  "cards": [
+    {
+      "term": "France",
+      "definition": "Paris"
+    },
+    {
+      "term": "Japan",
+      "definition": "Tokyo"
+    },
+    {
+      "term": "Canada",
+      "definition": "Ottawa"
+    },
+    {
+      "term": "Australia",
+      "definition": "Canberra"
+    },
+    {
+      "term": "Brazil",
+      "definition": "Brasília"
+    },
+    {
+      "term": "Egypt",
+      "definition": "Cairo"
+    },
+    {
+      "term": "Kenya",
+      "definition": "Nairobi"
+    },
+    {
+      "term": "Germany",
+      "definition": "Berlin"
+    },
+    {
+      "term": "India",
+      "definition": "New Delhi"
+    },
+    {
+      "term": "Mexico",
+      "definition": "Mexico City"
+    },
+    {
+      "term": "Peru",
+      "definition": "Lima"
+    },
+    {
+      "term": "South Korea",
+      "definition": "Seoul"
+    }
+  ]
+}

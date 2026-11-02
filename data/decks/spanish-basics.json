@@ -1,0 +1,53 @@
+{
+  "name": "Spanish Basics",
+  "cards": [
+    {
+      "term": "hola",
+      "definition": "hello"
+    },
+    {
+      "term": "adiós",
+      "definition": "goodbye"
+    },
+    {
+      "term": "gracias",
+      "definition": "thank you"
+    },
+    {
+      "term": "por favor",
+      "definition": "please"
+    },
+    {
+      "term": "el perro",
+      "definition": "the dog"
+    },
+    {
+      "term": "el gato",
+      "definition": "the cat"
+    },
+    {
+      "term": "la casa",
+      "definition": "the house"
+    },
+    {
+      "term": "el libro",
+      "definition": "the book"
+    },
+    {
+      "term": "comer",
+      "definition": "to eat"
+    },
+    {
+      "term": "beber",
+      "definition": "to drink"
+    },
+    {
+      "term": "rojo",
+      "definition": "red"
+    },
+    {
+      "term": "feliz",
+      "definition": "happy"
+    }
+  ]
+}
